@@ -41,6 +41,6 @@ Secure Boot, Disabled(by default)
 ### 其他
 无线网卡是`DW1560`，某宝全新到手加接线和天线150RMB左右。收到后直接用透明胶屏蔽（贴住）两个针脚就可以使用了（不影响windows下使用）。使用我这个配置可以直接驱动wifi和蓝牙。这个网卡黑苹果用得多，不行就再搜索一下。
 
-![dw1560](iDW1560.png)
+![dw1560](DW1560.png)
 
 参考：https://www.cnblogs.com/SemiconductorKING/p/7702410.html
