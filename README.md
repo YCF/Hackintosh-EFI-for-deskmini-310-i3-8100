@@ -6,6 +6,8 @@ deskmini 310 +i3-8100的hackintosh（黑苹果）efi 配置
 
 参考： https://www.tonymacx86.com/threads/asrock-deskmini-310-com-issue.254724/
 
+deskmini 110 可以看这个兄弟的：https://github.com/yunWJR/Hackintosh-deskmini-efi
+
 # **重要提示**
 
 黑苹果这个核显启动成功后，视频信号会从 DP 输出，hdmi会没信号，我被这个折腾了好久，以为自己玩坏了。
