@@ -1,4 +1,6 @@
 # Hackintosh-EFI-for-deskmini-310-i3-8100
+
+我这个 EFI 用于 10.13.6。在10.14可能会稍有区别（在10.14使用核显会更好，更兼容）
 deskmini 310 +i3-8100的hackintosh（黑苹果）efi 配置
 
 参考： https://www.tonymacx86.com/threads/asrock-deskmini-310-com-issue.254724/
@@ -6,6 +8,8 @@ deskmini 310 +i3-8100的hackintosh（黑苹果）efi 配置
 # **重要提示**
 
 黑苹果这个核显启动成功后，视频信号会从 DP 输出，hdmi会没信号，我被这个折腾了好久，以为自己玩坏了。
+
+
 
 ### 我的配置
 
