@@ -1209,7 +1209,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07843403QXA8</string>
+		<string>C07804701QXA8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1239,9 +1239,9 @@
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C07XL8ZKJYVX</string>
+		<string>C07W509KJYVX</string>
 		<key>SmUUID</key>
-		<string>D067132B-085B-4ACE-9BF9-F8F47681A297</string>
+		<string>0D4BA43A-0674-45B6-978F-A4A4190901FF</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -1255,6 +1255,8 @@
 		<false/>
 		<key>#NvidiaWeb</key>
 		<false/>
+		<key>CustomUUID</key>
+		<string>9430C34B-7DAC-4B34-9A11-2B066892E2EA</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>

@@ -1,9 +1,9 @@
 # Hackintosh-EFI-for-deskmini-310-i3-8100
 
 
-EFI 用于 10.13.6，为本人折腾成果，目前我正在使用。
+EFI 用于 10.13.6，为本人折腾成果，可以正常使用。
 
-EFI_10.14 用于 10.14，来源于QQ群:580456695，我没升级到10.14，所以没亲自测试。
+EFI_10.14 用于 10.14，来源于QQ群:580456695，我已升级到10.14.3，完美使用。。
 
 deskmini 310 +i3-8100的hackintosh（黑苹果）efi 配置
 
@@ -41,7 +41,7 @@ deskmini 110 可以看这个兄弟的：https://github.com/yunWJR/Hackintosh-des
      - USB Configuration, XHCI Hand-off, Enabled	
     - Super IO Configuration, Serial Port, Disabled	
  3. Security	
-Secure Boot, Disabled(by default)	
+	Secure Boot, Disabled(by default)	
  ### 其他	
 无线网卡是`DW1560`，某宝全新到手加接线和天线150RMB左右。收到后直接用透明胶屏蔽（贴住）两个针脚就可以使用了（不影响windows下使用）。使用我这个配置可以直接驱动wifi和蓝牙。这个网卡黑苹果用得多，不行就再搜索一下。	
  ![dw1560](DW1560.png)	
